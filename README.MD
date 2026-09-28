@@ -15,3 +15,7 @@ Github
 ## Projects
 This portfolio showcase some of the projects I have worked on while learning software engineering. Through this functions I am able to practise my coding skills.
 
+## My Goals
+My goal is to continue improving my programming skills and become  a confident software engineer.
+
+
