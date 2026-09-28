@@ -29,3 +29,4 @@ CSS
 Git and Github
 
 ## Contacts
+In order to reach me my contacts are in my webpage
