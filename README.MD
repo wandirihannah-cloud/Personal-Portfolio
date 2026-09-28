@@ -14,3 +14,4 @@ Github
 
 ## Projects
 This portfolio showcase some of the projects I have worked on while learning software engineering. Through this functions I am able to practise my coding skills.
+
