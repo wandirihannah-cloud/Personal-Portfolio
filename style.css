@@ -1,0 +1,87 @@
+/* General page styling */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f4f6f8;
+    color: #333;
+}
+
+/* Header */
+
+header {
+    background-color: #1e3a5f;
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+header h1 {
+    margin-bottom: 10px;
+}
+
+/* Navigation */
+
+nav {
+    background-color: #142840;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+/* Change link color when mouse is over it */
+
+nav a:hover {
+    color: #4db8ff;
+}
+
+/* Sections */
+
+section {
+    max-width: 900px;
+    margin: 30px auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+/* Headings */
+
+h2 {
+    color: #1e3a5f;
+}
+
+/* Lists */
+
+li {
+    margin: 10px 0;
+}
+
+/* Button */
+
+button {
+    background-color: #1e3a5f;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #286090;
+}
+
+/* Footer */
+
+footer {
+    background-color: #142840;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
