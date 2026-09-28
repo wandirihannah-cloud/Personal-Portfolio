@@ -22,3 +22,5 @@ My goal is to continue improving my programming skills and become  a confident s
 Web Development
 Software Development
 Learning new technologies
+
+## Currently learning
