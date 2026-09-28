@@ -24,3 +24,7 @@ Software Development
 Learning new technologies
 
 ## Currently learning
+Javascript
+CSS
+Git and Github
+
