@@ -19,3 +19,6 @@ This portfolio showcase some of the projects I have worked on while learning sof
 My goal is to continue improving my programming skills and become  a confident software engineer.
 
 ## Interests
+Web Development
+Software Development
+Learning new technologies
